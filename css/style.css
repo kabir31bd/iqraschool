@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+/* *****************************************
+* Neale Armani - project
+*
+********************************************/
+.container .tl1{
+    width: 50%;
+    float: left;
+}
+
+.container .tl2{
+    width: 50%;
+    float: left;
+    margin-leftX: 2px;
+}
